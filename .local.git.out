@@ -1,0 +1,501 @@
+[detached HEAD 17a55ce] Commit
+ 2 files changed, 46 insertions(+)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	command.cc
+M	shell.l
+M	shell.y
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 96bc682] Commit
+ 4 files changed, 273 insertions(+), 1138 deletions(-)
+ rewrite command.cc (93%)
+ rewrite shell.l (96%)
+ rewrite shell.y (95%)
+ rewrite test-shell/testall.out (100%)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+D	command.h
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 163c091] Commit
+ 2 files changed, 45 insertions(+), 50 deletions(-)
+ delete mode 100644 command.h
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 9957998] Commit
+ 1 file changed, 28 insertions(+)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master a1f3f42] Commit
+ 1 file changed, 27 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	Makefile
+M	command.cc
+M	command.hh
+M	read-line.c
+M	shell.l
+M	shell.y
+M	tty-raw-mode.c
+Your branch is up to date with 'origin/master'.
+[master 13d5b38] Commit
+ 8 files changed, 1492 insertions(+), 445 deletions(-)
+ rewrite command.cc (66%)
+ rewrite command.hh (86%)
+ create mode 100755 gethomedir.cc
+ rewrite read-line.c (84%)
+ rewrite shell.y (74%)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	regular.c
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+A	regular.c
+Your branch is up to date with 'origin/master'.
+[master 81d80bb] Commit
+ 1 file changed, 260 insertions(+)
+ create mode 100755 regular.c
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+A	lex.yy.cc
+A	y.tab.cc
+A	y.tab.hh
+Your branch is up to date with 'origin/master'.
+[master 2bd1e28] Commit
+ 3 files changed, 3968 insertions(+)
+ create mode 100644 lex.yy.cc
+ create mode 100644 y.tab.cc
+ create mode 100644 y.tab.hh
+D	lex.yy.cc
+D	y.tab.cc
+D	y.tab.hh
+Your branch is up to date with 'origin/master'.
+[master 415e850] Commit
+ 3 files changed, 3968 deletions(-)
+ delete mode 100644 lex.yy.cc
+ delete mode 100644 y.tab.cc
+ delete mode 100644 y.tab.hh
+D	shell.cc
+D	shell.hh
+D	simpleCommand.cc
+D	simpleCommand.hh
+Your branch is up to date with 'origin/master'.
+[master 95f7a87] Commit
+ 4 files changed, 79 deletions(-)
+ delete mode 100644 shell.cc
+ delete mode 100644 shell.hh
+ delete mode 100644 simpleCommand.cc
+ delete mode 100644 simpleCommand.hh
+D	command.hh
+Your branch is up to date with 'origin/master'.
+[master 72a4f98] Commit
+ 1 file changed, 50 deletions(-)
+ delete mode 100644 command.hh
+M	shell.y
+Your branch is up to date with 'origin/master'.
+[master f9e466b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master e070253] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	command.h
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	Makefile
+Your branch is up to date with 'origin/master'.
+[master dfa06a8] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 02f9670] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	command.h
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	Makefile
+Your branch is up to date with 'origin/master'.
+[master 6eeaac3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	command.h
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	command.h
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	command.h
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	command.h
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	shell.l
+Your branch is up to date with 'origin/master'.
+[master 4b0ddb6] Commit
+ 1 file changed, 2 insertions(+)
+A	command.h
+Your branch is up to date with 'origin/master'.
+[master 92403ff] Commit
+ 1 file changed, 50 insertions(+)
+ create mode 100644 command.h
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+
+nothing added to commit but untracked files present
+M	Makefile
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master ca16992] Commit
+ 2 files changed, 47 insertions(+), 51 deletions(-)
+ rewrite test-shell/testall.out (91%)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+	test-shell/hello world
+	testall.out
+
+nothing added to commit but untracked files present
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 8998b5b] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 4cbb5ee] Commit
+ 1 file changed, 1 insertion(+)
+M	command.cc
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 8f97f9e] Commit
+ 2 files changed, 19 deletions(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 8679288] Commit
+ 1 file changed, 1 insertion(+)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+	test-shell/hello world
+	testall.out
+
+nothing added to commit but untracked files present
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 3b21513] Commit
+ 1 file changed, 1 deletion(-)
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 0f1e212] Commit
+ 1 file changed, 19 insertions(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+	test-shell/hello world
+
+nothing added to commit but untracked files present
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 68cfc98] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 26cefee] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+	test-shell/hello world
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	test-shell/file-list-1
+	test-shell/file-list-2
+	test-shell/hello world
+
+nothing added to commit but untracked files present
+M	read-line.c
+Your branch is up to date with 'origin/master'.
+[master d9b8733] Commit
+ 1 file changed, 11 insertions(+), 1 deletion(-)
+M	read-line.c
+Your branch is up to date with 'origin/master'.
+[master 24c97f6] Commit
+ 1 file changed, 15 insertions(+)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/new_process
+	examples/regular
+	test-shell/file-list-1
+	test-shell/file-list-2
+	test-shell/hello world
+
+nothing added to commit but untracked files present
+M	read-line.c
+Your branch is up to date with 'origin/master'.
+[master e0ae5e8] Commit
+ 1 file changed, 8 insertions(+)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/new_process
+	examples/regular
+	test-shell/file-list-1
+	test-shell/file-list-2
+	test-shell/hello world
+
+nothing added to commit but untracked files present
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 40cc5d2] Commit
+ 1 file changed, 20 insertions(+), 45 deletions(-)
+ rewrite test-shell/testall.out (97%)
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 83245d0] Commit
+ 1 file changed, 45 insertions(+), 20 deletions(-)
+ rewrite test-shell/testall.out (94%)
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master 2005360] Commit
+ 1 file changed, 3 insertions(+), 45 deletions(-)
+ rewrite test-shell/testall.out (97%)
+M	test-shell/testall.out
+Your branch is up to date with 'origin/master'.
+[master e88f1d8] Commit
+ 1 file changed, 45 insertions(+), 3 deletions(-)
+ rewrite test-shell/testall.out (67%)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 975ecbb] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/new_process
+	examples/regular
+	test-shell/file-list-1
+	test-shell/file-list-2
+	test-shell/hello world
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/new_process
+	examples/regular
+	test-shell/file-list-1
+	test-shell/file-list-2
+	test-shell/hello world
+
+nothing added to commit but untracked files present
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/cat_grep
+	examples/ctrl-c
+	examples/keyboard-example
+	examples/new_process
+	examples/regular
+	test-shell/file-list-1
+	test-shell/file-list-2
+	test-shell/hello world
+
+nothing added to commit but untracked files present
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master d35ce71] Commit
+ 1 file changed, 1 insertion(+)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 76f7299] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	command.cc
+Your branch is up to date with 'origin/master'.
+[master 7c3f621] Commit
+ 1 file changed, 1 deletion(-)
